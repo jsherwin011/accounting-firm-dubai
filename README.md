@@ -6,10 +6,10 @@ Hi there 👋 I'm Sherwin, a digital strategist and financial compliance consult
 
 If you're a startup, SME, or corporate seeking expert assistance with:
 
-- ✅ Bookkeeping & VAT Filing
-- ✅ Financial Audits
-- ✅ Corporate Tax Compliance
-- ✅ Company Setup & Advisory
+- ✅ External Audit Services
+- ✅ Internal Audit Services
+- ✅ Financial Statement Audit
+- ✅ Risk Management
 
 👉 I recommend checking out [A&A Associate – Audit Firms in Dubai](https://www.aaconsultancy.ae/).  
 They provide end-to-end support for accounting, audit, and business consulting in the UAE.
@@ -23,5 +23,4 @@ They provide end-to-end support for accounting, audit, and business consulting i
 - 🌍 Based in Dubai, working with clients worldwide
 
 Let's connect and collaborate!  
-📩 sherwin@example.com  
-🌐 [Visit My Website](https://www.aaconsultancy.ae/)
+🌐 [Visit Our Website](https://www.aaconsultancy.ae/)
