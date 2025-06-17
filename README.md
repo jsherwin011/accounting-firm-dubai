@@ -2,7 +2,7 @@ Hi there 👋 I'm Sherwin, a digital strategist and financial compliance consult
 
 ---
 
-## 📊 Looking for a Reliable Accounting Firm in Dubai?
+## 📊 Looking for a Reliable Audit Firms in Dubai?
 
 If you're a startup, SME, or corporate seeking expert assistance with:
 
